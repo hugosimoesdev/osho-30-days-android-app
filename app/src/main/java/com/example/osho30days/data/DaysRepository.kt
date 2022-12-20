@@ -1,7 +1,7 @@
-package com.example.osho30days.model
+package com.example.osho30days.data
 
-import androidx.compose.ui.res.stringResource
 import com.example.osho30days.R
+import com.example.osho30days.model.Days
 
 object DaysRepository {
     val days = listOf(
