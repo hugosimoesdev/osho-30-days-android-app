@@ -3,6 +3,8 @@ package com.example.osho30days.data
 import com.example.osho30days.R
 import com.example.osho30days.model.Days
 
+// TODO: Add more content about the days
+
 object DaysRepository {
     val days = listOf(
         Days(
