@@ -3,7 +3,6 @@ package com.example.osho30days
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.example.osho30days.ui.Osho30DaysApp
 import com.example.osho30days.ui.theme.Osho30daysTheme
 
 
